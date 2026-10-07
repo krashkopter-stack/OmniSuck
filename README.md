@@ -7,7 +7,7 @@
 Работает на Mac и Windows.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c85ca36c-8e52-4c87-bc46-fac1083746e2" alt="Screenshot" width="600">
+  <img src="https://github.com/user-attachments/assets/c85ca36c-8e52-4c87-bc46-fac1083746e2" alt="Screenshot" width="300">
 </p>
 
 ## Что умеет
