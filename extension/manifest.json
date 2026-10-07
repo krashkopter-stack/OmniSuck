@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "OmniSuck",
+  "version": "1.1",
+  "description": "Скачивает видео (и фото из постов Instagram) в один клик.",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzi+v7mG3QKOmBRpgGf1T8pMfBH2Go4kQCPioDl7fvti7+gm4XgkxUnXqWmiXBNXDSKXjv2zRa/yYethAhHTWsXEJLN6Y8PlMukFj2N3TPB8vLT0n/a18E+wAc8FiDCDtScgbi47vZ2Jif2OJzvz5BTJ+aE9yNWRbRa8kh9AALPO0F8GLjfB8gJvEQQy6LD5h2p827d0ttgN8ysLLAa+JlXpFqD+eva69ktoQP+VsNKz2wclzGf4dbQtFdJ/vi/0ADfx6J9ZGCwkxFrIx+oEXVU0/3WrunmaAOeZE/u+Lbq9cBQrIu9ShJVXpFRKm09OkTQBx4qHjRz1NW7YAqy5J4QIDAQAB",
+  "permissions": ["nativeMessaging", "storage", "tabs", "scripting", "activeTab"],
+  "host_permissions": ["https://*.instagram.com/*"],
+  "background": { "service_worker": "bg.js" },
+  "action": { "default_popup": "popup.html", "default_icon": "icon.png" },
+  "icons": { "128": "icon.png" }
+}
