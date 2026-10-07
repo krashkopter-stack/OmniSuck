@@ -6,6 +6,10 @@
 
 Работает на Mac и Windows.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c85ca36c-8e52-4c87-bc46-fac1083746e2" alt="Screenshot" width="600">
+</p>
+
 ## Что умеет
 
 Внутри всего две кнопки: «Скачать» и «Настройки». В настройках можно выбрать качество, скачать только звук в MP3 или поменять папку.
